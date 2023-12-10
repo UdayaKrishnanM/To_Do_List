@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Below running the script install the node modules
 
 ### `npm i`
@@ -10,6 +6,10 @@ Run the above command in command prompt to install node modules
 ### `npm install react-icons --save`
 Run the above command in command prompt to install react icons
 
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
