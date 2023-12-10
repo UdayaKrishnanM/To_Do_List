@@ -1,4 +1,4 @@
-## Below running the script install the node modules
+# Below running the script install the node modules
 
 ### `npm i`
 Run the above command in command prompt to install node modules
