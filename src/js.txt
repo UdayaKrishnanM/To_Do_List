@@ -1,0 +1,4 @@
+higher order function
+destructor in js
+default props in react
+controlled components means inputs in react forms. 
