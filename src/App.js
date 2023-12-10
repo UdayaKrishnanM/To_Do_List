@@ -13,7 +13,6 @@ function App() {
   const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist'))??[])
 
 
-  // this will add new list 
   const [newItem, setNewItem] = useState('')
 
   const [search, setSearch] = useState('')
